@@ -1,4 +1,4 @@
 common-bash-scripts
 ===================
 
-1. Bash script for downloading files in the background
+1. 'download-files.sh' - Bash script for downloading files in the background
